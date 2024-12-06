@@ -6,7 +6,5 @@
 
  "overrides": [
   { "predicate": {"custom_model_data": 1}, "model": "item/santa_claus_sleigh"},
-  { "predicate": {"custom_model_data": 2}, "model": "item/santa_clause"},
-  { "predicate": {"custom_model_data": 3}, "model": "item/nicholasstaff"}
-
+  { "predicate": {"custom_model_data": 2}, "model": "item/santa_clause"}
  ]}
